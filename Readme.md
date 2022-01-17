@@ -30,6 +30,6 @@ I am 38 yo guy from Prague, currently dedicated to learn to code, switch careers
 
 Before coding, You would find me somewhere in the mountains, climbing via ferrata with my clients or in the gym, helping them achieve their goals. I
 
-![Mountain me](/images/mountain_me.png)
+![Mountain me](./images/mountain_me.png)
 
   </details>
