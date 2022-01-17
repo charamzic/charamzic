@@ -5,7 +5,6 @@ I just successfully finished a ten-month [Green Fox Academy](https://www.greenfo
 <span style="text-decoration: underline">So the plan is clear, to become a full stack guy!</span> 🤓
 
 I am still in the begining and I keep myself busy learning and immediately trying out new knowledge and skills. My latest projects are bellow and hey, if you think I could fit into your team or something, reach me out.  
-👈
 
 ---
 
