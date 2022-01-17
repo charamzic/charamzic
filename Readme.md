@@ -5,4 +5,4 @@ So the plan is clear, to become a full stack guy! 🤓
 
 I am still in the begining and I keep myself busy learning and immediately trying out new knowledge and skills. My latest projects are bellow and hey, if you think I could fit into your team or something, reach me out.
 
-<a href="https://twitter.com/charamzic" target="blank"><img align="center" src="https://raw.githubusercontent.com/charamzic/github-profile-readme-generator/master/images/twitter.com" alt="charamzic" height="30" width="40" /></a>
+<a href="https://twitter.com/charamzic" target="blank"><img align="center" src="https://github.com/charamzic/charamzic/blob/main/images/twitter.png" alt="charamzic" height="30" width="40" /></a>
