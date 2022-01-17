@@ -28,7 +28,7 @@ I am still in the begining and I keep myself busy learning and immediately tryin
 
 I am 38 yo guy from Prague, currently dedicated to learn to code, switch careers and become a web and app developer. Although I have a better feeling for visual stuff and front end might look as a wise desicion for me, I'd love to continue working with back end as well. So I do work with backend. 😁 It's tough, but rewarding.
 
-Before coding, You would find me somewhere in the mountains, climbing via ferrata with my clients or in the gym, helping them achieve their goals. I
+Before coding, You would find me somewhere in the mountains, climbing via ferrata with my clients or in the gym, helping them achieve their goals. And now I'm here, merging branches and careers, pushing code and weights. And I love it! Cant't wait till my first dev job opportunity.
 
 ![Mountain me](https://github.com/charamzic/charamzic/blob/main/images/mountain_me.jpg)
 
