@@ -19,7 +19,7 @@ I am still in the begining and I keep myself busy learning and immediately tryin
 🤑 In the beginning of React, Redux, C# real world app [Udemy course](https://github.com/charamzic/ReStore).  
 🐍 Did [Java snake](https://github.com/charamzic/Snake) following youtube tutorial.  
 🐳 And created [simple web app](https://github.com/charamzic/dominick-maple-ec) to try Docker for a very first time.  
-💬 Last but not least, played with [Bootstrap](https://charamzic.github.io/) a little on my profile page. To be continued.
+💬 Last but not least, played with Bootstrap a little on my [profile page](https://charamzic.github.io/). To be continued.
 
 ---
 
